@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Agenda Builder",
+  "description": "Upload any document to automatically generate a structured meeting agenda with stakeholders and a timeline of topics using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
